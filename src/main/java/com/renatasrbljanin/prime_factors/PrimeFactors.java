@@ -20,8 +20,6 @@ public class PrimeFactors {
 			}
 			divisor++;
 		}
-
 		return factors;
 	}
-
 }

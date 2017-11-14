@@ -16,5 +16,4 @@ public class PrimeFactorsUtil {
 		
 		in.close();
 	}
-
 }
